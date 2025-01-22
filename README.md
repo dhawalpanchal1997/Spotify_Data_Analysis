@@ -22,10 +22,21 @@ This project leverages Spotify data to derive actionable insights into music tre
 
 ## Graphs and Visualizations
 The project generates several meaningful graphs to illustrate key insights, including:
-- **Popularity Trends:** Line charts depicting changes in song popularity over time.
-- **Genre Characteristics:** Bar graphs comparing average tempo, loudness, and duration across genres.
-- **Top Artists and Songs:** Pie charts and bar graphs highlighting the most popular artists and songs.
-- **Attribute Correlations:** Heatmaps showing relationships between song attributes such as tempo, duration, and popularity.
+- **The correlation between popularity and acousticness using a scatter plot with a regression line**  
+  
+  ![Popularity Trends](plots/output3.png)
+
+- **The average song duration per genre:**  
+  
+  ![Genre Characteristics](plots/output8.png)
+
+- **The top 5 genres by total popularity:**  
+  
+  ![Top Artists and Songs](plots/output9.png)
+
+- **Attribute Correlations:** Heatmaps showing relationships between song attributes such as tempo, duration, and popularity. 
+  
+  ![Attribute Correlations](plots/output1.png)
 
 ## Installation and Setup
 1. Clone the repository:
