@@ -72,7 +72,6 @@ This analysis provides a data-driven perspective on the music industry, highligh
 ```
 |-- Spotify_data_analysis.ipynb   # Primary analysis notebook
 |-- requirements.txt              # Dependency list
-|-- data/                         # Folder containing datasets
 |-- plots/                        # Folder for saved visualizations
 ```
 
